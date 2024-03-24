@@ -46,7 +46,7 @@ Each observation in the dataset contains monthly behavior information about one 
 
 ### Contact Information
 - [GitHub](https://github.com/shobascode)
-- [LinkedIn]([https://linkedin.com/in/yourname](https://www.linkedin.com/in/shoba-santosh))
+- [LinkedIn]([https://linkedin.com/in/yourname](https://www.linkedin.com/in/shoba-santosh])
 
 ### Acknowledgements
 Special thanks to TripleTen for providing the Megaline dataset and project instructions.
