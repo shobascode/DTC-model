@@ -7,7 +7,7 @@
 Develop a model that recommends one of Megaline's plans (Smart or Ultra) with the highest possible accuracy. The threshold for accuracy is set at 0.75.
 
 ### Understanding the Data
-Each observation in the dataset contains monthly behavior information about one user. The features provided include:
+users_behavior.csv: Each observation in the dataset contains monthly behavior information about one user. The features provided include:
 - Calls: Number of calls
 - Minutes: Total call duration in minutes
 - Messages: Number of text messages
