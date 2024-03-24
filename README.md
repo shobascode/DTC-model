@@ -30,7 +30,7 @@ Each observation in the dataset contains monthly behavior information about one 
 2. **Model Development**
    - Implementing a Decision Tree Classifier
    - Experimenting with different values of max_depth
-   - Selecting the model with the highest validation accuracy
+   - Selecting the model with the highest and best balance of training and validation accuracy
    
 3. **Model Evaluation**
    - Assessing the model's performance using sklearn accuracy_score function
@@ -39,9 +39,9 @@ Each observation in the dataset contains monthly behavior information about one 
 
 ### How to Run
 1. Clone the repository to your local machine.
-2. Navigate to the project directory.
+2. Navigate to the file "DTC Mobile Carrier Recommender".
 3. Ensure that the required libraries are installed (Pandas, Scikit-learn, Matplotlib, Seaborn).
-4. Run the provided Python script or Jupyter Notebook to execute the code.
+4. Run the provided Jupyer Notebook to execute the code.
 5. View the results, including accuracy scores and confusion matrix visualization.
 
 ### Contact Information
